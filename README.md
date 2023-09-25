@@ -1,7 +1,9 @@
 | Topic                                           | Details                                                                                                         |
 |-------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
 | Project for all weclapp web pages              | All pages are pre rendered except the registration page as this needs to call the platform in the backend. See [SSR Details](https://docs.astro.build/en/guides/server-side-rendering/) for details about SSR. |
-| Todo's                                          | - Decide for a system to manage content (created and maintained by Marketing Team) - Currently storyblok and strapi are evaluated - Introduce cookie management - Define asset management process   - Special case: images, right size, right quality, right distribution |
+| Todo's                                          | - Decide for a system to manage content (created and maintained by Marketing Team).
+- Currently storyblok and strapi are evaluated.
+-  Introduce cookie management - Define asset management process   - Special case: images, right size, right quality, right distribution |
 | Good Examples                                  | - [Pinwheel Astro](https://github.com/themefisher/pinwheel-astro) - [Astro Examples](https://github.com/withastro/astro/blob/main/examples) - [MicroWebStacks Astro Examples](https://github.com/MicroWebStacks/astro-examples) |
 | Weclapp Style Classes                          | - weclapp-link   - Will underline text and set blue color on hover state                                     |
 | Wave Backgrounds                              | - [svgwave.in](https://svgwave.in/) (best option) - [getwaves.io](https://getwaves.io/) - [app.haikei.app](https://app.haikei.app/)  |
